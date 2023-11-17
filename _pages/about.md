@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. !!!!!!!!!!!!!!
 
@@ -8,13 +8,13 @@ profile:
   align: right
   image: JingbangLiuWarwick_corp.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -27,6 +27,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I will wirte my biography now.
 
-Hi there! Currently I am a postdoct at the School of Mathematics, University of Oslo, within the group of Prof. Andreas Carlson. My current work involve m
+Hi there! From 1st December I will be a postdoct at the School of Mathematics, University of Oslo, within the group of Prof. Andreas Carlson. My current work involve m
 
 You can find my CV [here](../assets/pdf/CV.pdf).
