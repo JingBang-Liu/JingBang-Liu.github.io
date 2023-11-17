@@ -19,14 +19,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcom to my homepage!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+From 1st December I will be a postdoct at the School of Mathematics, University of Oslo, within the group of [Prof. Andreas Carlson](https://acarlson-uio.github.io/index.html). I will be working on bio-physics related problems, in particular modelling of cell membrane folding. My postdoc is also part of the [AUTORHYTHM](https://www.uio.no/english/research/strategic-research-areas/life-science/research/convergence-environments/autorhythm/) project.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I did my PhD at the Mathematics Institute, University of Warwick, under the supervision of [Prof. James Sprittles](https://jamessprittles.com) and [Prof. Duncan Lockerby](https://warwick.ac.uk/fac/sci/eng/people/duncan_lockerby/). We were mainly interested fluids at nanoscale, where inter-atomic forces and thermal fluctuations are no longer negligible. We mainly used fluctuating hydrodynamics for modeling, and numerical simulations (either solving the fluctuating hydrodynamics numerically, or use molecular dynamics) for validation. In particular I was looking into the effects of solids side walls to the fluctuation amplitude and the spontaneous rupture of nanoscale thin liquid films. My PhD was funded by the [EPSRC CDT in Modelling of Heterogeneous Systems](https://warwick.ac.uk/fac/sci/hetsys/).
 
-I will wirte my biography now.
+I did my MSc at the Mathematical Institute, University of Oxford in Mathematical Modelling and 
+Scientific Computing and graduated with a merit. My dissertation was supervised by [Prof. Irene Moroz](https://www.maths.ox.ac.uk/people/irene.moroz) and [Dr. Hannah Christensen](https://www.physics.ox.ac.uk/our-people/arnold). We studied the dynamical properties of El Niño Southern Oscillation (ENSO) using the 
+Vallis 1986 model and explored the possible impacts of Greenhouse Warming on ENSO.
 
-Hi there! From 1st December I will be a postdoct at the School of Mathematics, University of Oslo, within the group of Prof. Andreas Carlson. My current work involve m
+I did my BSc in Mathematics and Applied Mathematics at both Shandong University (PRC) and University of Manchester (UK) in a 2+2 program.
 
 You can find my CV [here](../assets/pdf/CV.pdf).
