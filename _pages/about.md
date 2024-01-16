@@ -9,7 +9,7 @@ profile:
   image: JingbangLiuWarwick_corp.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 900</p>
+    <p>Room 917</p>
     <p>Niels Henrik Abels hus</p>
     <p>0851 Oslo, Norway</p>
 
